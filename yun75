@@ -1,0 +1,2 @@
+# Sun Java System Application Server CLASSPATH Constant 
+COMPILE_LCP=".:${LIB_DIR}/jms.jar" 
