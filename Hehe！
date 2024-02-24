@@ -1,0 +1,2 @@
+COMPILE_LCP="${COMPILE_LCP}:${CDSLIB_DIR}/cdsapi.jar" 
+COMPILE_LCP="${COMPILE_LCP}:${CDSLIB_DIR}/foundation.jar" 
