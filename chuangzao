@@ -1,0 +1,2 @@
+      jndiCtxFactory = args[5]; 
+      connFactory = args[6]; 
