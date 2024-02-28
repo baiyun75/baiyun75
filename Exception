@@ -1,0 +1,4 @@
+    public SampleExternalProxy() throws Exception { 
+ 
+                // User the external package to instanciate the Proxu 
+                // You need to use the client/server setting in the 
